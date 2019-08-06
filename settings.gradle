@@ -1,1 +1,1 @@
-include ':app', ':ToolBar', ':DrawerLayout', ':NavigationView', ':FloatingActionButton', ':CoordinatorLayout', ':CardView'
+include ':app', ':ToolBar', ':DrawerLayout', ':NavigationView', ':FloatingActionButton', ':CoordinatorLayout', ':CardView', ':SwipeRefreshLayout'
