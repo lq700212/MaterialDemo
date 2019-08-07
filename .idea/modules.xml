@@ -3,21 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CardView/CardView.iml" filepath="$PROJECT_DIR$/CardView/CardView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CardView/CardView.iml" filepath="$PROJECT_DIR$/CardView/CardView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CoordinatorLayout/CoordinatorLayout.iml" filepath="$PROJECT_DIR$/CoordinatorLayout/CoordinatorLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollapsingToolbarLayout/CollapsingToolbarLayout.iml" filepath="$PROJECT_DIR$/CollapsingToolbarLayout/CollapsingToolbarLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoordinatorLayout/CoordinatorLayout.iml" filepath="$PROJECT_DIR$/CoordinatorLayout/CoordinatorLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" filepath="$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" filepath="$PROJECT_DIR$/DrawerLayout/DrawerLayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FloatingActionButton/FloatingActionButton.iml" filepath="$PROJECT_DIR$/FloatingActionButton/FloatingActionButton.iml" />
       <module fileurl="file://$PROJECT_DIR$/FloatingActionButton/FloatingActionButton.iml" filepath="$PROJECT_DIR$/FloatingActionButton/FloatingActionButton.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaterialDemo.iml" filepath="$PROJECT_DIR$/MaterialDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MaterialDemo.iml" filepath="$PROJECT_DIR$/MaterialDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NavigationView/NavigationView.iml" filepath="$PROJECT_DIR$/NavigationView/NavigationView.iml" />
       <module fileurl="file://$PROJECT_DIR$/NavigationView/NavigationView.iml" filepath="$PROJECT_DIR$/NavigationView/NavigationView.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayout/SwipeRefreshLayout.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayout/SwipeRefreshLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayout/SwipeRefreshLayout.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayout/SwipeRefreshLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToolBar/ToolBar.iml" filepath="$PROJECT_DIR$/ToolBar/ToolBar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ToolBar/ToolBar.iml" filepath="$PROJECT_DIR$/ToolBar/ToolBar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
